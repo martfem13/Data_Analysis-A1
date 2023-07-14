@@ -8,6 +8,16 @@ The dataset describes the Types of Ford car there are, their Year of useage, Tra
 
 PHASE1
 
-The relevant python packages are imported and used to make analysis thus (pandas, numpy, matplotlib, seaborn, etc). These packages will help us with our analysis as they provide the relevant libraries needed to breakdown our dataset and start making meaningful analysis of ou data set.
-The **sns.set_theme(color_codes=True)** is a seaborn package that tells the default styling options of visualizations and plots in your data analysis.
+The relevant python packages are imported and used to make analysis thus (pandas, numpy, matplotlib, seaborn, etc). These packages will help us with our analysis as they provide the relevant libraries needed to breakdown our dataset and start making meaningful analysis of our data set.
+The **sns.set_theme(color_codes=True)** is a seaborn package that tells the default styling options of visualizations and plots in data analysis.
 The **set_theme()** is a function in Seaborn that allows you to custormise the visual styles of your plots and visualizatons 
+
+
+PHASE2
+
+Preprocessing stage: Getting basic relevant information about our "ford.csv" data. 
+Here, the data is prepared and made ready for analysis. Incorrect inputs are monitored, missing values are checked and removed including duplicates (If only duplicates will not affect the entire result of our dataset with it analysis).
+A. Data Cleaning
+B. Data Interrgration
+C. Data Reduction
+D. Data Transformation
