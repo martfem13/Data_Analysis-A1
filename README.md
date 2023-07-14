@@ -17,6 +17,8 @@ PHASE2
 
 Preprocessing stage: Getting basic relevant information about our "ford.csv" data. 
 Here, the data is prepared and made ready for analysis. Incorrect inputs are monitored, missing values are checked and removed including duplicates (If only duplicates will not affect the entire result of our dataset with it analysis).
+
+
 A. Data Cleaning
 B. Data Interrgration
 C. Data Reduction
