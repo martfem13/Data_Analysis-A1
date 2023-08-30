@@ -22,4 +22,4 @@ Here, the data is prepared and made ready for analysis. Incorrect inputs are mon
 A. Data Cleaning
 B. Data Interrgration
 C. Data Reduction
-D. Data Transformation
+D. Data Transformation(Modeling and obtaining insight from dataset)
