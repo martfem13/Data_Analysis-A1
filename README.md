@@ -1,3 +1,5 @@
+This is a practice dataset I am working to get better with my datascience skills.
+
 **FORD CAR PRICE PREDICTION ANALYSIS**
 DETAILS:
 1. About
